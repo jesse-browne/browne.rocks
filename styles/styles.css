@@ -5,3 +5,12 @@ img {
 .row {
   margin-bottom: 4em;
 }
+
+.img-left {
+  margin-left: -1.05em;
+  margin-right: 5em;
+}
+
+.right {
+  float: right;
+}
