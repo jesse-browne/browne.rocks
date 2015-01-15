@@ -23,6 +23,10 @@ img {
   font-family: gv;
 }
 
+.no-margin-bottom {
+  margin-bottom: 2em;
+}
+
 @font-face {
     font-family: 'gv';
     src: url('../fonts/gv-webfontkit/gv-regular-webfont.eot');
