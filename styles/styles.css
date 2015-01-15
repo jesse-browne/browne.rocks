@@ -6,6 +6,10 @@ img {
   max-width: 100%;
 }
 
+#main-content {
+  margin-top: 50px;
+}
+
 .row {
   margin-bottom: 4em;
 }
